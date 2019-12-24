@@ -1,0 +1,4 @@
+#Tue Dec 24 21:06:26 MSK 2019
+base.0=D\:\\2DUnityGame\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
